@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: promicro_nrf52840
     shield: cjis3
